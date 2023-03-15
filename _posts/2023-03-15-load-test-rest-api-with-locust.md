@@ -1,4 +1,5 @@
 ---
+title: Use Locust to load test a REST API service 
 tags: "testing" "locust"
 ---
 
