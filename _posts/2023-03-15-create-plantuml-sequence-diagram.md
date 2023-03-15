@@ -1,3 +1,8 @@
+---
+title: PlantUML sequence diagram and component diagram
+tags: plantuml uml
+---
+
 ## Question
 
 Create a PlantUML sequence diagram with the following flow:
